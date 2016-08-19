@@ -12,3 +12,9 @@ Did parch affected survival and how?
 Did passenger age affected survival and how?
 
 By solving these problems, I tried to restore what was happening on board and how people got survived.
+
+#files
+Titanic Data Investigation Report.pdf : the final report of exploration
+Titanic.ipynb: ipython notebook version of codes and graphs.
+Titanic.html: html version of codes and graphs
+titanic_data.csv: the original data set
